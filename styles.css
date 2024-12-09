@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Srisakdi:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&family=Srisakdi:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&family=Sriracha&family=Srisakdi:wght@400;700&display=swap');
+
+body {
+    color: rgb(0, 0, 0);
+    font-family: "Mitr", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    place-items: center;
+}
+
+h1 {
+    font-family: "Mitr", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h2 {
+    font-family: "Mitr", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    background: rgba(255, 229, 218, 0.921);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(61, 214, 99, 0.1);
+    margin-top: 50px;
+}
+button {
+    font-family: "Mitr", sans-serif;
+    font-weight: 500;
+    /* Light */
+    background-color: #436a43;
+    color: rgb(159, 214, 166);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #002c02;
+  }
